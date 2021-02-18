@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="407fffb3-ac6f-4547-bed9-7df964ceb0c1" name="Default Changelist" comment="" />
+    <list default="true" id="407fffb3-ac6f-4547-bed9-7df964ceb0c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.excecoes">
+  <component name="RunManager" selected="Python.main38">
     <configuration name="aula1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="app-comerciais-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +147,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main38" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.aula1" />
       <item itemvalue="Python.aula2" />
       <item itemvalue="Python.excecoes" />
-      <item itemvalue="Python.main38" />
-      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
