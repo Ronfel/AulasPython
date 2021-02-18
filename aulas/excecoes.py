@@ -8,10 +8,17 @@ def testedivisao(n1, n2):
         print("Não divida um número por zero!")
 
 def entrada():
-    n1 = int(input("Insira um número: "))
-    n2 = int(input("Insira outro número: "))
+    while True:
+       try:
+           n1 = int(input("Insira um número: "))
+           n2 = int(input("Insira outro número: "))
+       except ValueError:
+           print("Fim da aplicação")
+           exit()
 
-    testedivisao(n1, n2)
+       testedivisao(n1, n2)
+       print("-----------------------")
+       print()
 
 entrada()
 
