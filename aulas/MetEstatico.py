@@ -1,8 +1,11 @@
 class MetEstatico:
+    @staticmethod
     def func1():
         print("func1()")
+    @staticmethod
     def func2(x, y):
         print("Função '{}' invocada. \nParams=({}, {})".format("func2", x, y))
+    @staticmethod
     def func3(a, b, c):
         info = """
         Nome da Função {nome}
@@ -15,10 +18,9 @@ class MetEstatico:
         )
         print(info)
 
-    func1 = staticmethod(func1)
-    func2 = staticmethod(func2)
-    func3 = staticmethod(func3)
-    
+    # func1 = staticmethod(func1)
+    # func2 = staticmethod(func2)
+    # func3 = staticmethod(func3)
     
 me = MetEstatico
 me.func1()
