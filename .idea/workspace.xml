@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="407fffb3-ac6f-4547-bed9-7df964ceb0c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/MetEstatico.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/MetEstatico.py" afterDir="false" />
-    </list>
+    <list default="true" id="407fffb3-ac6f-4547-bed9-7df964ceb0c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614896067994</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implemetação de Metodo Estático com decorators.">
+      <created>1615811938928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615811938928</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,7 +275,8 @@
     <MESSAGE value="Estudo de OO no Python." />
     <MESSAGE value="Utilização de Decorators." />
     <MESSAGE value="Implemetação de Metodo Estático." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemetação de Metodo Estático." />
+    <MESSAGE value="Implemetação de Metodo Estático com decorators." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemetação de Metodo Estático com decorators." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
