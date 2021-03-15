@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="407fffb3-ac6f-4547-bed9-7df964ceb0c1" name="Default Changelist" comment="M" />
+    <list default="true" id="407fffb3-ac6f-4547-bed9-7df964ceb0c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/MetEstatico.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/MetEstatico.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,49 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.main38">
+  <component name="RunManager" selected="Python.MetEstatico">
+    <configuration name="MetEstatico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/MetEstatico.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quadrado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Quadrado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="aula1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="app-comerciais-kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,9 +195,13 @@
       <item itemvalue="Python.aula1" />
       <item itemvalue="Python.aula2" />
       <item itemvalue="Python.excecoes" />
+      <item itemvalue="Python.Quadrado" />
+      <item itemvalue="Python.MetEstatico" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MetEstatico" />
+        <item itemvalue="Python.Quadrado" />
         <item itemvalue="Python.excecoes" />
         <item itemvalue="Python.aula2" />
         <item itemvalue="Python.aula1" />
@@ -189,7 +238,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613611922315</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Estudo de OO no Python.">
+      <created>1614163368669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614163368669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Utilização de Decorators.">
+      <created>1614164431784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614164431784</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implemetação de Metodo Estático.">
+      <created>1614896067994</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614896067994</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,7 +268,10 @@
     </ignored-roots>
     <MESSAGE value="Recarregando modulo e iniciando estudos de exceções." />
     <MESSAGE value="Iniciando estudos de exceções." />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando estudos de exceções." />
+    <MESSAGE value="Estudo de OO no Python." />
+    <MESSAGE value="Utilização de Decorators." />
+    <MESSAGE value="Implemetação de Metodo Estático." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemetação de Metodo Estático." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -212,6 +285,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>16</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aulas/Quadrado.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
